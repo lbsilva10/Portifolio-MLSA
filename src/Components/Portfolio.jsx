@@ -34,13 +34,13 @@ const projectList = [
     title: "Supporter 🎉",
     description:
       "The Canal da Cloud Volunteer Career Mentorship project is a non-profit action that relies on the collaboration of the IT technical community to help people who want to develop themselves with technology. As a volunteer in this project, I seek to help people to walk promising paths in the technology industry. Through personalized guidance, I share knowledge, tips and insights on market trends, helping mentees to develop their skills and achieve their professional goals.<br>I believe that access to education and mentorship is essential for everyone to thrive in the ever-evolving technology landscape. By being part of this project, I have the opportunity to go a step further and make a difference in the lives of individuals looking to grow and excel in the world of technolog.",
-    url: "https://www.youtube.com/c/CanaldaCloud"
+
   },
   {
-    title: "Introdução Azure Virgggtual Desktop",
+    title: "Introdução ao Azure Virtual Desktop",
     description:
       "Azure Virtual Desktop is a cloud-based desktop virtualization service offered by Microsoft. It allows organizations to create and manage Windows virtual machines in Microsoft data centers and provide access to these machines to their users, allowing them to access their applications and work resources from anywhere using supported devices such as computers, tablets or smartphones.",
-    url: "https://www.youtube.com/c/CanaldaCloud"
+
   }
 ]
 
