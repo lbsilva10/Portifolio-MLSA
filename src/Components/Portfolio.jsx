@@ -31,30 +31,13 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Supporter 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The Canal da Cloud Volunteer Career Mentorship project is a non-profit action that relies on the collaboration of the IT technical community to help people who want to develop themselves with technology. As a volunteer in this project, I seek to help people to walk promising paths in the technology industry. Through personalized guidance, I share knowledge, tips and insights on market trends, helping mentees to develop their skills and achieve their professional goals.
+I believe that access to education and mentorship is essential for everyone to thrive in the ever-evolving technology landscape. By being part of this project, I have the opportunity to go a step further and make a difference in the lives of individuals looking to grow and excel in the world of technolog.",
+    url: "https://www.youtube.com/c/CanaldaCloud",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
-];
 
 const Portfolio = () => {
   return (
