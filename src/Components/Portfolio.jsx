@@ -37,9 +37,9 @@ const projectList = [
     url: "https://www.youtube.com/c/CanaldaCloud"
   },
   {
-    title: "Introdução Azure Virtual Desktop",
+    title: "Introdução Azure Virgggtual Desktop",
     description:
-      "O Azure Virtual Desktop é um serviço de virtualização da área de trabalho baseado na nuvem oferecido pela Microsoft. Ele permite que as organizações criem e gerenciem máquinas virtuais do Windows em data centers da Microsoft e ofereçam acesso a essas máquinas para seus usuários, permitindo que eles acessem seus aplicativos e recursos de trabalho de qualquer lugar, usando dispositivos compatíveis, como computadores, tablets ou smartphones.",
+      "Azure Virtual Desktop is a cloud-based desktop virtualization service offered by Microsoft. It allows organizations to create and manage Windows virtual machines in Microsoft data centers and provide access to these machines to their users, allowing them to access their applications and work resources from anywhere using supported devices such as computers, tablets or smartphones.",
     url: "https://www.youtube.com/c/CanaldaCloud"
   }
 ]
