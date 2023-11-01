@@ -24,19 +24,17 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Cloud computing enthusiast and student, especially focused on Microsoft's Azure platform. Since discovering the vastness and transformative potential of cloud technology, I have focused my studies on exploring the countless possibilities offered by this platform.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Cloud Azure",
+  "Microsoft 365",
+  "Microsoft Intune",
+  "Microsoft Student Ambassadors",
 ];
 
 /**
@@ -45,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Graduated in Leadership and Management in Technology, passionate about technology and IT news, mainly in the Azure environment.";
 
 const About = () => {
   return (
